@@ -1,4 +1,4 @@
-# If-Else
+# 1. If-Else
 
 
 def is_weird(n):

@@ -1,4 +1,4 @@
-# Find the Runner-Up Score!
+# 5. Find the Runner-Up Score!
 
 
 if __name__ == '__main__':
